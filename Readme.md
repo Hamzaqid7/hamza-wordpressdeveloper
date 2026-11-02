@@ -1,4 +1,4 @@
-# Hi there, I'm Hamza 👋
+# Hi there, I'm Hamza Aijaz Qidwai 👋
 
 Front-End & WordPress Developer based in Karachi, Pakistan. I specialize in building crisp, responsive user interfaces, custom web applications, and interactive browser tools.
 
