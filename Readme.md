@@ -1,10 +1,10 @@
 # Hi there, I'm Hamza 👋
 
-Front-End & WordPress Developer based in Karachi, Pakistan[cite: 2]. I specialize in building crisp, responsive user interfaces, custom web applications, and interactive browser tools.
+Front-End & WordPress Developer based in Karachi, Pakistan. I specialize in building crisp, responsive user interfaces, custom web applications, and interactive browser tools.
 
 ### 🛠️ Tech Stack & Capabilities
 - **Languages & Frameworks:** JavaScript, React, HTML5, CSS3/SCSS, Tailwind CSS, Bootstrap 5, PHP, Python
-- **Specializations:** SPA Development[cite: 3], Custom WordPress Architecture, Dynamic Canvas Applications, Responsive Fluid Typography
+- **Specializations:** SPA Development, Custom WordPress Architecture, Dynamic Canvas Applications, Responsive Fluid Typography
 
 ### 🚀 Key Projects
 - **NovaStream Player:** A modern browser-based web player featuring custom controls, playback adjustments, and keyboard shortcut grids.
